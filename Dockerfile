@@ -23,10 +23,4 @@ Dockerfile
   EXPOSE 4200
   # Command used to start application
   CMD ng serve --host 0.0.0.0
-  
-  .dockerignore
 
-    .env
-    .git
-    .gitignore
-    node_modules
